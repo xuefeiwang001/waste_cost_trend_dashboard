@@ -1,24 +1,20 @@
 # 📊 Waste Cost Trend Dashboard
-This project presents an end-to-end analytical dashboard that examines the relationship between warehouse inbound weight and waste-processing costs across months and years.    
+A real-world data project analyzing how warehouse inbound weight influences waste-processing costs.  
 
-By combining operational logistics data (box weight, DBU volumes) with monthly waste-disposal pricing, the dashboard reveals:  
+The dashboard combines operational data from **Snowflake** (DBU weights) and **PostgreSQL** (inroissy weights) to reveal:  
 📦 How much inbound weight the warehouse processes each month  
 🗑️ How waste-processing costs evolve over time  
 📈 The monthly share of DBU-related weight and how it contributes to total cost  
 🔍 Year-over-year trends in both weight and cost  
 🎯 Key cost drivers and seasonal patterns  
 
-The application is built with Streamlit + Altair, using data originally sourced from PostgreSQL (warehouse operations) and Snowflake (DBU volumes).  
-For public release, the dashboard relies on cleaned demo datasets that replicate the real production structure while ensuring full data privacy.  
+For public release, the dashboard relies on **cleaned demo datasets** that replicate the real production structure while ensuring full data privacy.  
 
 This project demonstrates skills in:  
 - Data extraction & cleaning (SQL + Python)
 - Multi-source data modelling & integration
 - Interactive dashboard design
 - Analytical storytelling driven by real operational data
-
-The original internal version of this project connects to **Snowflake** (DBU weights) and **PostgreSQL** (inrooissy weights) and runs on real operational data.  
-This public repository uses **anonymised CSV samples** instead, so it is safe to share and easy to run locally.
 
 ---
 
@@ -171,6 +167,7 @@ A data-driven professional with strong analytical foundations and hands-on exper
 Passionate about transforming raw operational data into actionable business strategies.
 
 📧 Contact: xuefei.wang.fr@gmail.com
+
 
 
 
