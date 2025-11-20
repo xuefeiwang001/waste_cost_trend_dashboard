@@ -36,7 +36,7 @@ This project demonstrates skills in:
 ## 🧱 Project Structure
 ```text
 .
-├── dashboard.py        # Main Streamlit app
+├── dashboard.py                   # Main Streamlit app
 ├── requirements.txt               # Python dependencies
 ├── data/
 │   ├── df DBU.csv                 # Demo DBU data (extracted & anonymised)
@@ -167,6 +167,7 @@ A data-driven professional with strong analytical foundations and hands-on exper
 Passionate about transforming raw operational data into actionable business strategies.
 
 📧 Contact: xuefei.wang.fr@gmail.com
+
 
 
 
